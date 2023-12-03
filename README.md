@@ -22,6 +22,31 @@ Creating user with Powershell: <br/>
 <img src="https://i.imgur.com/VwmzQyA.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
+Download and install Windows 10 ISO:  <br/>
+<img src="https://i.imgur.com/HllmNYy.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Install Nat: <br/>
+<img src="https://i.imgur.com/lRWJrML.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Address leases:  <br/>
+<img src="https://i.imgur.com/wWn1LmA.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Create Routing and Remote:  <br/>
+<img src="https://i.imgur.com/cMqLVGW.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+New user created:  <br/>
+<img src="https://i.imgur.com/PPH3CP8.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
+</p>
+
+
+
 
 </p>
 
